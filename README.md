@@ -1,1 +1,1 @@
-# wiki
+# wikipedia clone with django
